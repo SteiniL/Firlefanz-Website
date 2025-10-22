@@ -7,7 +7,6 @@
 </template>
 
 <script>
-//import HeaderComponent from './components/HeaderComponent.vue';
 import NavStripe from './components/NavStripeComponent.vue';
 import LandingPage from './components/LandingPage.vue';
 import FeaturedServices from './components/FeaturedServices.vue';
